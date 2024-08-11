@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ayo ke Jogja!</string>
+    <string name="image">Gambar destinasi wisata</string>
+    <string name="name">Luthfia Nisa Azzahra</string>
+    <string name="email">luthfianisa02@gmail.com</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+</resources>
